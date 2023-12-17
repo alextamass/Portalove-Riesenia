@@ -57,7 +57,7 @@ https://templatemo.com/tm-580-woox-travel
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="about.html" class="active">About</a></li>
+                        <li><a href="about.php" class="active">About</a></li>
                         <li><a href="deals.php">Deals</a></li>
                         <li><a href="reservation.php">Reservation</a></li>
                         <li><a href="reservation.php">Book Yours</a></li>
